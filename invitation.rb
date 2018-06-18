@@ -3,3 +3,6 @@
 # Try starting out with puts'ing a string.
 guest_name=Hermione
 party_name=Halloween
+date=
+time=
+host_name=
