@@ -1,7 +1,7 @@
 # Code your prompts here!
 
 # Try starting out with puts'ing a string.
-guest_name = "Hermione"
+guest_name = "Voldemort"
 party_name = "Halloween"
 date = "October 31"
 time = "6pm"
